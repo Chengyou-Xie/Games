@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Games/static/css/main.113839f7.css",
-    "main.js": "/Games/static/js/main.251aae5f.js",
+    "main.js": "/Games/static/js/main.3461cf08.js",
     "static/media/6筒.png": "/Games/static/media/6筒.fd62e2af8c7b5b2a0683.png",
     "static/media/8筒.png": "/Games/static/media/8筒.348e6ef87d7a6d44376b.png",
     "static/media/9筒.png": "/Games/static/media/9筒.ddbfbbd16ba63ccabf6e.png",
@@ -36,10 +36,10 @@
     "static/media/19nav.svg": "/Games/static/media/19nav.f9684fafe28bdf3fd1017b2f214102c9.svg",
     "index.html": "/Games/index.html",
     "main.113839f7.css.map": "/Games/static/css/main.113839f7.css.map",
-    "main.251aae5f.js.map": "/Games/static/js/main.251aae5f.js.map"
+    "main.3461cf08.js.map": "/Games/static/js/main.3461cf08.js.map"
   },
   "entrypoints": [
     "static/css/main.113839f7.css",
-    "static/js/main.251aae5f.js"
+    "static/js/main.3461cf08.js"
   ]
 }
